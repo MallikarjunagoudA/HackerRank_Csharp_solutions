@@ -1,0 +1,15 @@
+E:\others\CutTheSticks\CutTheSticks\bin\Debug\net6.0\CutTheSticks.exe
+E:\others\CutTheSticks\CutTheSticks\bin\Debug\net6.0\CutTheSticks.deps.json
+E:\others\CutTheSticks\CutTheSticks\bin\Debug\net6.0\CutTheSticks.runtimeconfig.json
+E:\others\CutTheSticks\CutTheSticks\bin\Debug\net6.0\CutTheSticks.dll
+E:\others\CutTheSticks\CutTheSticks\bin\Debug\net6.0\CutTheSticks.pdb
+E:\others\CutTheSticks\CutTheSticks\obj\Debug\net6.0\CutTheSticks.csproj.AssemblyReference.cache
+E:\others\CutTheSticks\CutTheSticks\obj\Debug\net6.0\CutTheSticks.GeneratedMSBuildEditorConfig.editorconfig
+E:\others\CutTheSticks\CutTheSticks\obj\Debug\net6.0\CutTheSticks.AssemblyInfoInputs.cache
+E:\others\CutTheSticks\CutTheSticks\obj\Debug\net6.0\CutTheSticks.AssemblyInfo.cs
+E:\others\CutTheSticks\CutTheSticks\obj\Debug\net6.0\CutTheSticks.csproj.CoreCompileInputs.cache
+E:\others\CutTheSticks\CutTheSticks\obj\Debug\net6.0\CutTheSticks.dll
+E:\others\CutTheSticks\CutTheSticks\obj\Debug\net6.0\refint\CutTheSticks.dll
+E:\others\CutTheSticks\CutTheSticks\obj\Debug\net6.0\CutTheSticks.pdb
+E:\others\CutTheSticks\CutTheSticks\obj\Debug\net6.0\CutTheSticks.genruntimeconfig.cache
+E:\others\CutTheSticks\CutTheSticks\obj\Debug\net6.0\ref\CutTheSticks.dll
